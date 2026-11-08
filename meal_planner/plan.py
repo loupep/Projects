@@ -420,7 +420,7 @@ def render_html(plan):
     people = plan["people"]
     notes = shares_with(plan["meals"])
     P = [
-        f"<title>Dinners · w/c {e(plan['week_short'])}</title>",
+        "<title>Weekly Dinners</title>",
         '<meta name="claude:viewport-fit-sides" content="cover">',
         '<link rel="preconnect" href="https://fonts.googleapis.com">',
         '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700'
