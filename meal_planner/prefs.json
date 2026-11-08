@@ -1,0 +1,10 @@
+{
+  "people": 2,
+  "dinners": 4,
+  "max_minutes": 45,
+  "diet": "any",
+  "avoid": [],
+  "sources": [],
+  "recent_weeks": 6,
+  "min_ratings": 0
+}

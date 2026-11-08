@@ -1,0 +1,3 @@
+# Collected recipes stay local until we decide where to keep them (repo is public).
+meal_planner/data/
+__pycache__/
